@@ -17,7 +17,7 @@ const HeroButton = () => {
       })
       .then((data) => {
         // Logowanie danych z pliku JSON
-        console.log("Załadowane dane:", data);
+        console.log("Data loaded:", data);
 
         // Wyszukiwanie sekcji o id "hero-button"
         const section = data.find((item) => item["section-id"] === "hero-button");

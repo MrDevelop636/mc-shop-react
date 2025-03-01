@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Specjalny Skin",
+      "description": "Otrzymaj unikalny skin dla swojej postaci.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 2,
+      "title": "Super Broń",
+      "description": "Zdobądź wyjątkową broń do gry.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 3,
+      "title": "Epicki Zestaw",
+      "description": "Kompletny zestaw do ulepszania postaci.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 4,
+      "title": "Test",
+      "description": "Kompletny zestaw do ulepszania postaci.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 5,
+      "title": "Test",
+      "description": "Kompletny zestaw do ulepszania postaci.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 6,
+      "title": "Test",
+      "description": "Kompletny zestaw do ulepszania postaci.",
+      "img": "https://placehold.co/200"
+    },
+    {
+      "id": 7,
+      "title": "Test",
+      "description": "Kompletny zestaw do ulepszania postaci.",
+      "img": "https://placehold.co/200"
+    }
+  ]
