@@ -9,7 +9,7 @@ export default function Navbar() {
 
   useEffect(() => {
     // Ładowanie pliku JSON
-    fetch("/conf/nav/config.json") // Sprawdź, czy plik jest w folderze public/core/config
+    fetch("/conf/Services/nav/config.json") // Sprawdź, czy plik jest w folderze public/core/config
       .then((response) => {
         if (!response.ok) {
           throw new Error(`Błąd wczytywania pliku: ${response.statusText}`);

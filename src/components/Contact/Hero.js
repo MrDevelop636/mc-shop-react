@@ -9,7 +9,7 @@ const HeroSection = () => {
 
   useEffect(() => {
     // Pobranie pliku JSON z public/conf/hero/config.json
-    fetch("/conf/hero/config.json")
+    fetch("/conf/Contact/hero/config.json")
       .then((response) => {
         if (!response.ok) {
           // Jeśli odpowiedź nie jest poprawna, wyrzucamy błąd
